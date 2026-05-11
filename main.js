@@ -1,2 +1,2 @@
-const a 
+const a = "adios"
 console.log(a)
